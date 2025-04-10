@@ -13,3 +13,8 @@
 
 - [1주차 수업 내용](https://github.com/Jimin2123/TIL/blob/master/R/1%EC%A3%BC%EC%B0%A8%20%EC%88%98%EC%97%85%20%EB%82%B4%EC%9A%A9.md)
 <br/>
+
+### App
+
+- [계산기 만들기 과제](https://github.com/Jimin2123/TIL/blob/master/App/uicalculator.dart)
+- [레이아웃 비슷하게 만들기 과제](https://github.com/Jimin2123/TIL/blob/master/App/colorsquare.dart)
